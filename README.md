@@ -18,4 +18,5 @@ After some quick research, I saw that there is a library in C# for the Alexa Ski
 ### Glossary
 
 Sesh = An Irish term for a party. But not any party, a sesh is a full evening/night of dirnking and general mayhem.
+
 Pre-drinks = The party before the party. Here one consumes copious amounts of alcohol in order to not have to pay for dirnks in the club.
